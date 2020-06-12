@@ -47,7 +47,7 @@ const reviews = [{name: "Daniela", rating: 5, feedback:"Beautiful atmosphere and
 ]
 
 /* Task 4: Console.log just Julius' feedback */
-console.log(reviews[5]);
+console.log(reviews[5].feedback);
 
 /* Task 5: Add a new rating with your (fictitious) opinions of the restaurant in the same format as the reviews above. */
 let newArr = [{name:"Jesus", rating: 8, feedback:"Hey everyone, Anthony Fantano, the internet's biggest music nerd"}];
